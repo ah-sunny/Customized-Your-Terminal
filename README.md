@@ -7,7 +7,12 @@ show note from This youtube Channel ->  <br>
 </div>
 
 
-![term.jpg](term.jpg)
+<!-- ![term.jpg](term.jpg) -->
+<div align="center">
+  <img src="term.jpg" alt="term" />
+</div>
+
+
 
 ### Install ZSH
 `sudo apt install zsh`
