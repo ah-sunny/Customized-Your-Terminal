@@ -25,7 +25,7 @@ show note from This youtube Channel ->  <br>
 https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
 
 >> **ToDo:  &nbsp;&nbsp; edit  &nbsp; .zshrc &nbsp; file** <br>
- &nbsp;&nbsp;&nbsp;&nbsp;  ZSH_THEME="jonathan"    <br> 
+ &nbsp;&nbsp;&nbsp;&nbsp;  _ZSH_THEME="jonathan"_    <br> 
 &nbsp;&nbsp;&nbsp;&nbsp; -[suggested by me]
 
 ### Install ohmyzsh
@@ -36,8 +36,13 @@ https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
 
 `git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $ZSH_CUSTOM/plugins/zsh-syntax-highlighting`
 
-edit .zshrc to include plugins
-plugins=(git zsh-autosuggestions zsh-syntax-highlighting)
+>> **ToDo:  &nbsp;&nbsp; edit  &nbsp; .zshrc file to include plugins** <br>
+ &nbsp;&nbsp;&nbsp;&nbsp;  _plugins=(git zsh-autosuggestions zsh-syntax-highlighting)_    <br> 
+&nbsp;&nbsp;&nbsp;&nbsp; -[suggested by me try once more plugin like history]
+
+
+<!-- edit .zshrc to include plugins
+plugins=(git zsh-autosuggestions zsh-syntax-highlighting) -->
 
 ### plugins include with ohmyzsh
 https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins
@@ -48,13 +53,19 @@ https://www.nerdfonts.com/
 
 https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/FiraMono
 
-download and install firamono for linux
+_download and install firamono for linux_
 
 ### Install Powerlevel 10k
 `git clone https://github.com/romkatv/powerlevel10k.git $ZSH_CUSTOM/themes/powerlevel10k`
 
-edit .zshrc
+>> **ToDo:** <br>
+ **&nbsp;&nbsp;&nbsp;&nbsp; edit  &nbsp; .zshrc file** <br>
+ &nbsp;&nbsp;&nbsp;&nbsp;  _ZSH_THEME="powerlevel10k/powerlevel10k"_    <br> 
+  &nbsp;&nbsp;&nbsp;&nbsp;  _POWERLEVEL9K_MODE="nerdfont-complete"_  <br>
+
+
+<!-- edit .zshrc
 
 ZSH_THEME="powerlevel10k/powerlevel10k"
 
-POWERLEVEL9K_MODE="nerdfont-complete"
+POWERLEVEL9K_MODE="nerdfont-complete" -->
