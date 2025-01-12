@@ -9,7 +9,7 @@ show note from This youtube Channel ->  <br>
 
 <!-- ![term.jpg](term.jpg) -->
 <div align="center">
-  <img src="term.jpg" alt="term" />
+  <img src="image.png" alt="term" />
 </div>
 
 
